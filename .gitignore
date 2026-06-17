@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .env
 *.log
-models/*.onnx
+models/onnx_model/
+models/onnx_model/*.onnx
